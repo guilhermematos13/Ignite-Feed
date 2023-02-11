@@ -24,7 +24,7 @@ const posts = [
       { type: "link", content: "jane.design/doctorcare" },
     ],
 
-    publishedAt: new Date("2023-02-03 20:32:00"),
+    publishedAt: new Date("2023-02-11 11:51:00"),
   },
   {
     id: 2,
@@ -34,17 +34,16 @@ const posts = [
       role: "Front-end Developer Senior",
     },
     content: [
-      { type: "paragraph", content: "Fala galeraa 👋" },
+      { type: "paragraph", content: "Oie Pessoal 👋" },
       {
         type: "paragraph",
-        content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+        content: "Acabei de fazer um projeto incrivel com a rocketseat.",
       },
 
       { type: "link", content: "jane.design/doctorcare" },
     ],
 
-    publishedAt: new Date("2023-02-10 12:00:00"),
+    publishedAt: new Date("2023-02-11 06:30:00"),
   },
 ];
 
